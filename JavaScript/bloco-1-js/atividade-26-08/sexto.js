@@ -10,9 +10,9 @@ numero = leia.questionInt('Digite um numero: ')
 
 for(let i = 0; i<=9; i++){
 
-        if(numero == lista[i]){
-            posicao = i
-        }
+    if(numero == lista[i]){
+        posicao = i
+    }
 }
 
 if(posicao === -1){
