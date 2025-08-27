@@ -20,19 +20,3 @@ while( idade >= 0){
 console.log ('Total de pessoas menores de 21 anos: '+menorVinteUm)
 console.log ('Total de pessoas maiores de 50 anos: '+maiorCinquenta)
 
-
-
-
-//for( i = 1; i<=10; i++){
-
-    //let numeroDigitado = leia.questionInt('Digite o ' + i + 'º numero: ')
-
-    //if(numeroDigitado % 2 === 0){
-        //par = par+1
-    //}else{
-        //impar = impar+1
-    //}
-//}
-
-    //console.log('Total de números pares: ', par)
-    //console.log('Total de números impares: ', impar)
